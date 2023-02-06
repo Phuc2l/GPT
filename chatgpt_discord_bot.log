@@ -1,0 +1,192 @@
+[30;1m2023-02-05 22:06:09[0m [34;1mINFO    [0m [35msrc.bot[0m -> Send starting prompt with size 11
+[30;1m2023-02-05 22:06:13[0m [31mERROR   [0m [35msrc.bot[0m -> Error while sending starting prompt: 'NoneType' object has no attribute 'send'
+[31mTraceback (most recent call last):
+  File "C:\Users\huynh\Downloads\chatGPT-discord-bot-main\chatGPT-discord-bot-main\src\bot.py", line 83, in send_start_prompt
+    await channel.send(responseMessage)
+AttributeError: 'NoneType' object has no attribute 'send'[0m
+[30;1m2023-02-05 22:06:13[0m [34;1mINFO    [0m [35msrc.bot[0m -> Arces GPT#6613 is now running!
+[30;1m2023-02-05 23:01:48[0m [34;1mINFO    [0m [35msrc.bot[0m -> Send starting prompt with size 11
+[30;1m2023-02-05 23:01:52[0m [31mERROR   [0m [35msrc.bot[0m -> Error while sending starting prompt: 'NoneType' object has no attribute 'send'
+[31mTraceback (most recent call last):
+  File "C:\Users\huynh\Downloads\chatGPT-discord-bot-main\chatGPT-discord-bot-main\src\bot.py", line 83, in send_start_prompt
+    await channel.send(responseMessage)
+AttributeError: 'NoneType' object has no attribute 'send'[0m
+[30;1m2023-02-05 23:01:53[0m [34;1mINFO    [0m [35msrc.bot[0m -> ARCES GPT AI#4060 is now running!
+[30;1m2023-02-05 23:02:50[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31mHajun _ LT Phuc !#9339[0m : 'alo' (bot-gpt)
+[30;1m2023-02-05 23:04:23[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31m! _Sweet#9166[0m : '...' (🤖┊bot-gpt)
+[30;1m2023-02-05 23:04:32[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31mkirito;-;#8327[0m : 'phim con heo nào hay nhất' (🤖┊bot-gpt)
+[30;1m2023-02-05 23:05:56[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31m! _Sweet#9166[0m : 'anime là gi' (🤖┊bot-gpt)
+[30;1m2023-02-05 23:06:17[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31mItzHwng#3319[0m : 'địt mẹ vpnt' (🤖┊bot-gpt)
+[30;1m2023-02-05 23:07:13[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31mItzHwng#3319[0m : 'vnpt là mạng nào không được thông minh' (🤖┊bot-gpt)
+[30;1m2023-02-05 23:07:25[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31mkirito;-;#8327[0m : 'bạn biết phim hentai nào hay không' (🤖┊bot-gpt)
+[30;1m2023-02-05 23:07:44[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31m! _Sweet#9166[0m : 'viết cho tôi 1 đoạn code đơn giản về lập trình web' (🤖┊bot-gpt)
+[30;1m2023-02-05 23:08:32[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31mHajun _ LT Phuc !#9339[0m : 'code lua blox fruit' (📂┊cmd-gpt)
+[30;1m2023-02-05 23:08:55[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31mkirito;-;#8327[0m : 'viết code hack game roblox' (📂┊cmd-gpt)
+[30;1m2023-02-05 23:09:56[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31mkirito;-;#8327[0m : 'cách tạo ra chat gpt' (📂┊cmd-gpt)
+[30;1m2023-02-05 23:10:15[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31m! _Sweet#9166[0m : 'giải thích cho tôi các kiến thức cơ bản về code lua' (📂┊cmd-gpt)
+[30;1m2023-02-05 23:10:38[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31mSomeone need help![0m
+[30;1m2023-02-05 23:11:04[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31mSomeone need help![0m
+[30;1m2023-02-05 23:13:57[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31m! _Sweet#9166[0m : 'bạn có thể hiểu phụ nữ khong' (📂┊cmd-gpt)
+[30;1m2023-02-05 23:16:07[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31mkirito;-;#8327[0m : 'api là gì' (📂┊cmd-gpt)
+[30;1m2023-02-05 23:16:08[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31mkirito;-;#8327[0m : 'api là gì' (📂┊cmd-gpt)
+[30;1m2023-02-05 23:16:35[0m [33;1mWARNING [0m [35msrc.bot[0m -> [31mSwitch to private mode[0m
+[30;1m2023-02-05 23:16:46[0m [33;1mWARNING [0m [35msrc.bot[0m -> [31mSwitch to public mode[0m
+[30;1m2023-02-05 23:16:55[0m [33;1mWARNING [0m [35msrc.bot[0m -> [31mSwitch to private mode[0m
+[30;1m2023-02-05 23:17:11[0m [33;1mWARNING [0m [35msrc.bot[0m -> [31mSwitch to public mode[0m
+[30;1m2023-02-05 23:17:26[0m [33;1mWARNING [0m [35msrc.bot[0m -> [31mSwitch to private mode[0m
+[30;1m2023-02-05 23:17:32[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31mkirito;-;#8327[0m : 'api là gì' (📂┊cmd-gpt)
+[30;1m2023-02-05 23:18:20[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31mkirito;-;#8327[0m : 'api của chat gpt' (📂┊cmd-gpt)
+[30;1m2023-02-05 23:19:41[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31mkirito;-;#8327[0m : 'làm gì để lấy đc api' (📂┊cmd-gpt)
+[30;1m2023-02-05 23:21:20[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31m! _Sweet#9166[0m : 'dịch cho tôi đoạn này sang tiếng việt : Apostle of the End
+
+"Really, stop with the jokes please."
+
+This was the current state of Dino's mind.
+
+A new person had appeared as soon as he thought that he had defeated the previous opponent. Moreover, their purpose appeared to be to make him expose his skill.
+
+He failed in his objective to dispose of Ramiris and he had a feeling that even escaping on his own would be a difficult situation.' (📂┊cmd-gpt)
+[30;1m2023-02-05 23:28:30[0m [34;1mINFO    [0m [35msrc.bot[0m -> Send starting prompt with size 11
+[30;1m2023-02-05 23:28:34[0m [31mERROR   [0m [35msrc.bot[0m -> Error while sending starting prompt: 'NoneType' object has no attribute 'send'
+[31mTraceback (most recent call last):
+  File "C:\Users\huynh\Downloads\chatGPT-discord-bot-main\chatGPT-discord-bot-main\src\bot.py", line 83, in send_start_prompt
+    await channel.send(responseMessage)
+AttributeError: 'NoneType' object has no attribute 'send'[0m
+[30;1m2023-02-05 23:28:34[0m [34;1mINFO    [0m [35msrc.bot[0m -> ARCES GPT AI#4060 is now running!
+[30;1m2023-02-05 23:29:01[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31mSomeone need help![0m
+[30;1m2023-02-05 23:31:12[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31mHajun _ LT Phuc !#9339[0m : 'code lua join sever blox fruit' (📂┊cmd-gpt)
+[30;1m2023-02-05 23:32:03[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31mHajun _ LT Phuc !#9339[0m : 'viết cho tôi văn uống nước nhớ nguồn' (📂┊cmd-gpt)
+[30;1m2023-02-05 23:34:43[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31mHajun _ LT Phuc !#9339[0m : 'người thứ 2 lên quỹ đạo là ai ?' (📂┊cmd-gpt)
+[30;1m2023-02-05 23:35:29[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31mHajun _ LT Phuc !#9339[0m : 'kể tôi nghe về game Roblox' (📂┊cmd-gpt)
+[30;1m2023-02-05 23:36:41[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31m! _Sweet#9166[0m : 'cho tôi biết về cách thức hoạt động của ban' (📂┊cmd-gpt)
+[30;1m2023-02-05 23:37:37[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31mSomeone need help![0m
+[30;1m2023-02-05 23:38:08[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31mai mua vps thì ib!#9257[0m : 'làm sao để được làm chủ máy chủ này' (📂┊cmd-gpt)
+[30;1m2023-02-05 23:38:28[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31mHajun _ LT Phuc !#9339[0m : 'code lua blox fruit' (📂┊cmd-gpt)
+[30;1m2023-02-05 23:39:59[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31mHajun _ LT Phuc !#9339[0m : 'Bạn có thể ghi code lua check point được không ?' (📂┊cmd-gpt)
+[30;1m2023-02-05 23:40:14[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31m! _Sweet#9166[0m : 'viết cho tôi 1 dòng code đơn giản về roblox bằng ngôn ngữ lập trình lua' (📂┊cmd-gpt)
+[30;1m2023-02-05 23:40:33[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31m0x0x0x0x0x0x0x0#9950[0m : 'làm thế nào để làm chủ sever này' (📂┊cmd-gpt)
+[30;1m2023-02-05 23:42:21[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31m! _Sweet#9166[0m : 'viết cho tôi 1 UI đơn giản trong roblox bằng ngôn ngữ lập trình lua' (📂┊cmd-gpt)
+[30;1m2023-02-05 23:42:31[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31m0x0x0x0x0x0x0x0#9950[0m : 'hãy chỉ tôi làm một script farm level blox fruits' (📂┊cmd-gpt)
+[30;1m2023-02-05 23:44:43[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31m0x0x0x0x0x0x0x0#9950[0m : 'hãy chỉ tôi cơ bản về lua' (📂┊cmd-gpt)
+[30;1m2023-02-05 23:44:47[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31mHajun _ LT Phuc !#9339[0m : 'mi ở mô rứa' (📂┊cmd-gpt)
+[30;1m2023-02-05 23:47:06[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31m0x0x0x0x0x0x0x0#9950[0m : 'tôi muốn học lua thì nên học gì?' (📂┊cmd-gpt)
+[30;1m2023-02-05 23:47:11[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31m! _Sweet#9166[0m : 'viết cho tôi 1 đoạn code fly trong roblox bằng ngôn ngữ lập trình lua' (📂┊cmd-gpt)
+[30;1m2023-02-05 23:48:42[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31mHajun _ LT Phuc !#9339[0m : 'Code Lua CheckPoint Roblox' (📂┊cmd-gpt)
+[30;1m2023-02-05 23:49:12[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31mHajun _ LT Phuc !#9339[0m : 'cách giàu không cần học' (📂┊cmd-gpt)
+[30;1m2023-02-05 23:49:59[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31mHajun _ LT Phuc !#9339[0m : 'Chủ tịch nước Việt Nam là ai ?' (📂┊cmd-gpt)
+[30;1m2023-02-05 23:50:41[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31mHajun _ LT Phuc !#9339[0m : 'Tán người yêu cần tiền không' (📂┊cmd-gpt)
+[30;1m2023-02-05 23:51:31[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31m! _Sweet#9166[0m : 'sửa cho tôi đoạn code này : 
+local main = Instance.new("ScreenGui") local Frame = Instance.new("Frame") local up = Instance.new("TextButton") local down = Instance.new("TextButton") local onof = Instance.new("TextButton") local TextLabel = Instance.new("TextLabel") local plus = Instance.new("TextButton") local speed = Instance.new("TextLabel") local mine = Instance.new("TextButton") local closebutton = Instance.new("TextButton") local mini = Instance.new("TextButton") local mini2  Instance new("TextButton")' (📂┊cmd-gpt)
+[30;1m2023-02-05 23:53:12[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31mHajun _ LT Phuc !#9339[0m : 'Youtube nhiều view nhất ở Việt Nam là ai ?' (📂┊cmd-gpt)
+[30;1m2023-02-05 23:54:55[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31mHajun _ LT Phuc !#9339[0m : 'cho tôi link để học Lua' (📂┊cmd-gpt)
+[30;1m2023-02-05 23:57:10[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31mHajun _ LT Phuc !#9339[0m : 'Cho tôi Hình Ảnh Ronaldo' (📂┊cmd-gpt)
+[30;1m2023-02-05 23:58:01[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31m0x0x0x0x0x0x0x0#9950[0m : 'làm thế nào để cướp nhà bank' (📂┊cmd-gpt)
+[30;1m2023-02-05 23:58:07[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31mHajun _ LT Phuc !#9339[0m : 'sao để thoát ế' (📂┊cmd-gpt)
+[30;1m2023-02-05 23:59:07[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31mHajun _ LT Phuc !#9339[0m : 'Cách kiếm người yêu ?' (📂┊cmd-gpt)
+[30;1m2023-02-05 23:59:39[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31m0x0x0x0x0x0x0x0#9950[0m : 'các để thành một hacker chuyên nghiệp' (📂┊cmd-gpt)
+[30;1m2023-02-06 00:00:51[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31mHajun _ LT Phuc !#9339[0m : 'đi cướp ở tù bao nhiêu năm ?' (📂┊cmd-gpt)
+[30;1m2023-02-06 00:02:37[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31mHajun _ LT Phuc !#9339[0m : 'Tả cho tôi bài văn Cảnh Đẹp Liên Minh' (📂┊cmd-gpt)
+[30;1m2023-02-06 00:03:56[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31mHajun _ LT Phuc !#9339[0m : 'Nguồn Gốc Free Fire' (📂┊cmd-gpt)
+[30;1m2023-02-06 00:05:22[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31mHajun _ LT Phuc !#9339[0m : 'Ai là người lên vũ trụ thứ 2 thế giới ?' (📂┊cmd-gpt)
+[30;1m2023-02-06 00:05:50[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31mSomeone need help![0m
+[30;1m2023-02-06 00:07:08[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31mHajun _ LT Phuc !#9339[0m : 'Kuma là ai ?' (📂┊cmd-gpt)
+[30;1m2023-02-06 00:07:25[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31mHajun _ LT Phuc !#9339[0m : 'Kuma có học giỏi không' (📂┊cmd-gpt)
+[30;1m2023-02-06 00:07:38[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31m0x0x0x0x0x0x0x0#9950[0m : 'xem hentai có sao không' (📂┊cmd-gpt)
+[30;1m2023-02-06 00:07:39[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31mKuma#0256[0m : 'Phúc là ai' (📂┊cmd-gpt)
+[30;1m2023-02-06 00:08:23[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31mHajun _ LT Phuc !#9339[0m : 'Messi có bao nhiêu cup ?' (📂┊cmd-gpt)
+[30;1m2023-02-06 00:09:51[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31mHajun _ LT Phuc !#9339[0m : 'ai là vua bóng đá ?' (📂┊cmd-gpt)
+[30;1m2023-02-06 00:11:51[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31mHajun _ LT Phuc !#9339[0m : 'Anime hot nhất là gì ?' (📂┊cmd-gpt)
+[30;1m2023-02-06 00:13:10[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31mHajun _ LT Phuc !#9339[0m : 'phim Anime nổi tiếng nhất' (📂┊cmd-gpt)
+[30;1m2023-02-06 00:19:22[0m [34;1mINFO    [0m [35msrc.bot[0m -> Send starting prompt with size 11
+[30;1m2023-02-06 00:19:27[0m [31mERROR   [0m [35msrc.bot[0m -> Error while sending starting prompt: 'NoneType' object has no attribute 'send'
+[31mTraceback (most recent call last):
+  File "C:\Users\huynh\Downloads\chatGPT-discord-bot-main\chatGPT-discord-bot-main\src\bot.py", line 83, in send_start_prompt
+    await channel.send(responseMessage)
+AttributeError: 'NoneType' object has no attribute 'send'[0m
+[30;1m2023-02-06 00:19:27[0m [34;1mINFO    [0m [35msrc.bot[0m -> ARCES GPT AI#4060 is now running!
+[30;1m2023-02-06 00:19:41[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31mHajun _ LT Phuc !#9339[0m : 'lo' (💬┊general)
+[30;1m2023-02-06 00:19:53[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31mHajun _ LT Phuc !#9339[0m : 'alo' (📂┊cmd-gpt)
+[30;1m2023-02-06 00:22:09[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31mHajun _ LT Phuc !#9339[0m : 'Anime nổi tiếng nhất ?' (📂┊cmd-gpt)
+[30;1m2023-02-06 00:22:45[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31mHajun _ LT Phuc !#9339[0m : 'Thích Naruto' (📂┊cmd-gpt)
+[30;1m2023-02-06 00:23:44[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31mHajun _ LT Phuc !#9339[0m : 'Link Google Map' (📂┊cmd-gpt)
+[30;1m2023-02-06 00:25:27[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31mHajun _ LT Phuc !#9339[0m : 'Bạn có thể mô tả về Dù Lượn không ?' (📂┊cmd-gpt)
+[30;1m2023-02-06 00:27:00[0m [33;1mWARNING [0m [35msrc.bot[0m -> [31mSwitch to private mode[0m
+[30;1m2023-02-06 00:28:12[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31mHajun _ LT Phuc !#9339[0m : 'Code Lua Auto Farm Blox Fruit' (📂┊cmd-gpt)
+[30;1m2023-02-06 00:28:29[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31mHajun _ LT Phuc !#9339[0m : 'ok' (📂┊cmd-gpt)
+[30;1m2023-02-06 00:30:05[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31mHajun _ LT Phuc !#9339[0m : 'Alo' (📂┊cmd-gpt)
+[30;1m2023-02-06 00:30:33[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31myouka#5192[0m : 'Sao để chạy' (📂┊cmd-gpt)
+[30;1m2023-02-06 00:31:37[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31mSomeone need help![0m
+[30;1m2023-02-06 00:34:02[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31mHajun _ LT Phuc !#9339[0m : 'Ronaldo' (📂┊cmd-gpt)
+[30;1m2023-02-06 00:35:08[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31mHajun _ LT Phuc !#9339[0m : 'Xai rồi' (📂┊cmd-gpt)
+[30;1m2023-02-06 00:36:45[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31mHajun _ LT Phuc !#9339[0m : 'loài chim nào đắt nhất' (📂┊cmd-gpt)
+[30;1m2023-02-06 00:48:38[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31mHajun _ LT Phuc !#9339[0m : 'Open Ai do ai tạo ra' (📂┊cmd-gpt)
+[30;1m2023-02-06 00:49:10[0m [31mERROR   [0m [35msrc.bot[0m -> Error while sending message: The server experienced an error while processing your request. Sorry about that! You can retry your request, or contact us through our help center at help.openai.com if the error persists. {
+  "error": {
+    "message": "The server experienced an error while processing your request. Sorry about that! You can retry your request, or contact us through our help center at help.openai.com if the error persists.",
+    "type": "server_error",
+    "param": null,
+    "code": null
+  }
+}
+ 500 {'error': {'message': 'The server experienced an error while processing your request. Sorry about that! You can retry your request, or contact us through our help center at help.openai.com if the error persists.', 'type': 'server_error', 'param': None, 'code': None}} <CIMultiDictProxy('Date': 'Sun, 05 Feb 2023 17:49:30 GMT', 'Content-Type': 'application/json', 'Content-Length': '292', 'Connection': 'keep-alive', 'Access-Control-Allow-Origin': '*', 'Openai-Model': 'text-chat-davinci-002-20221122', 'Openai-Organization': 'user-2hc4vfakhjqkla4wn9vmxlmf', 'Openai-Processing-Ms': '30250', 'Openai-Version': '2020-11-07', 'Strict-Transport-Security': 'max-age=15724800; includeSubDomains', 'X-Request-Id': '666d3e200bee247bd35a9b088c0fa1b6')>
+[31mTraceback (most recent call last):
+  File "C:\Users\huynh\Downloads\chatGPT-discord-bot-main\chatGPT-discord-bot-main\src\bot.py", line 25, in send_message
+    response = f"{response}{await responses.handle_response(user_message)}"
+  File "C:\Users\huynh\Downloads\chatGPT-discord-bot-main\chatGPT-discord-bot-main\src\responses.py", line 21, in handle_response
+    response = await chatbot.ask(message)
+  File "C:\Users\huynh\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\revChatGPT\Official.py", line 215, in ask
+    completion = await self._get_completion(
+  File "C:\Users\huynh\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\revChatGPT\Official.py", line 196, in _get_completion
+    return await openai.Completion.acreate(
+  File "C:\Users\huynh\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\openai\api_resources\completion.py", line 45, in acreate
+    return await super().acreate(*args, **kwargs)
+  File "C:\Users\huynh\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\openai\api_resources\abstract\engine_api_resource.py", line 217, in acreate
+    response, _, api_key = await requestor.arequest(
+  File "C:\Users\huynh\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\openai\api_requestor.py", line 311, in arequest
+    resp, got_stream = await self._interpret_async_response(result, stream)
+  File "C:\Users\huynh\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\openai\api_requestor.py", line 646, in _interpret_async_response
+    self._interpret_response_line(
+  File "C:\Users\huynh\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\openai\api_requestor.py", line 680, in _interpret_response_line
+    raise self.handle_error_response(
+openai.error.APIError: The server experienced an error while processing your request. Sorry about that! You can retry your request, or contact us through our help center at help.openai.com if the error persists. {
+  "error": {
+    "message": "The server experienced an error while processing your request. Sorry about that! You can retry your request, or contact us through our help center at help.openai.com if the error persists.",
+    "type": "server_error",
+    "param": null,
+    "code": null
+  }
+}
+ 500 {'error': {'message': 'The server experienced an error while processing your request. Sorry about that! You can retry your request, or contact us through our help center at help.openai.com if the error persists.', 'type': 'server_error', 'param': None, 'code': None}} <CIMultiDictProxy('Date': 'Sun, 05 Feb 2023 17:49:30 GMT', 'Content-Type': 'application/json', 'Content-Length': '292', 'Connection': 'keep-alive', 'Access-Control-Allow-Origin': '*', 'Openai-Model': 'text-chat-davinci-002-20221122', 'Openai-Organization': 'user-2hc4vfakhjqkla4wn9vmxlmf', 'Openai-Processing-Ms': '30250', 'Openai-Version': '2020-11-07', 'Strict-Transport-Security': 'max-age=15724800; includeSubDomains', 'X-Request-Id': '666d3e200bee247bd35a9b088c0fa1b6')>[0m
+[30;1m2023-02-06 01:32:41[0m [34;1mINFO    [0m [35msrc.bot[0m -> Send starting prompt with size 11
+[30;1m2023-02-06 01:32:47[0m [31mERROR   [0m [35msrc.bot[0m -> Error while sending starting prompt: 'NoneType' object has no attribute 'send'
+[31mTraceback (most recent call last):
+  File "C:\Users\huynh\Downloads\chatGPT-discord-bot-main\chatGPT-discord-bot-main\src\bot.py", line 83, in send_start_prompt
+    await channel.send(responseMessage)
+AttributeError: 'NoneType' object has no attribute 'send'[0m
+[30;1m2023-02-06 01:32:48[0m [34;1mINFO    [0m [35msrc.bot[0m -> ARCES GPT AI#4060 is now running!
+[30;1m2023-02-06 01:33:37[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31mHajun _ LT Phuc !#9339[0m : 'hoho' (📂┊cmd-gpt)
+[30;1m2023-02-06 01:35:45[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31m! Suta#1111[0m : 'mẹ mày béo ?' (📂┊cmd-gpt)
+[30;1m2023-02-06 01:36:33[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31mHajun _ LT Phuc !#9339[0m : 'ronaldo' (📂┊cmd-gpt)
+[30;1m2023-02-06 01:37:23[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31mHajun _ LT Phuc !#9339[0m : 'Tả Cho tôi cánh đồng' (📂┊cmd-gpt)
+[30;1m2023-02-06 01:37:34[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31mSomeone need help![0m
+[30;1m2023-02-06 01:38:32[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31mHajun _ LT Phuc !#9339[0m : 'học lua ở đâu' (📂┊cmd-gpt)
+[30;1m2023-02-06 01:40:10[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31mHajun _ LT Phuc !#9339[0m : 'các link để học lua' (📂┊cmd-gpt)
+[30;1m2023-02-06 01:40:30[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31m! Suta#1111[0m : 'mẹ mày béo' (📂┊cmd-gpt)
+[30;1m2023-02-06 01:41:57[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31mHajun _ LT Phuc !#9339[0m : 'Youtube nhiều View nhất?' (📂┊cmd-gpt)
+[30;1m2023-02-06 01:43:37[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31mHajun _ LT Phuc !#9339[0m : 'Cách để ngủ ngon' (📂┊cmd-gpt)
+[30;1m2023-02-06 01:47:31[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31mHajun _ LT Phuc !#9339[0m : 'youtube có bao nhiêu người dùng ?' (📂┊cmd-gpt)
+[30;1m2023-02-06 01:53:03[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31mHajun _ LT Phuc !#9339[0m : 'Bạn ở đâu ?' (📂┊cmd-gpt)
+[30;1m2023-02-06 01:54:17[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31mHajun _ LT Phuc !#9339[0m : 'có bao nhiêu tên lửa được phóng trên khí quyển ?' (📂┊cmd-gpt)
+[30;1m2023-02-06 01:57:04[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31mHajun _ LT Phuc !#9339[0m : 'số dân còn lại' (📂┊cmd-gpt)
+[30;1m2023-02-06 07:41:41[0m [34;1mINFO    [0m [35msrc.bot[0m -> Send starting prompt with size 11
+[30;1m2023-02-06 07:41:44[0m [31mERROR   [0m [35msrc.bot[0m -> Error while sending starting prompt: 'NoneType' object has no attribute 'send'
+[31mTraceback (most recent call last):
+  File "C:\Users\huynh\Downloads\chatGPT-discord-bot-main\chatGPT-discord-bot-main\src\bot.py", line 83, in send_start_prompt
+    await channel.send(responseMessage)
+AttributeError: 'NoneType' object has no attribute 'send'[0m
+[30;1m2023-02-06 07:41:45[0m [34;1mINFO    [0m [35msrc.bot[0m -> ARCES GPT AI#4060 is now running!
+[30;1m2023-02-06 07:42:31[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31mHajun _ LT Phuc !#9339[0m : 'có bao nhiêu hạt cát' (📂┊cmd-gpt)
+[30;1m2023-02-06 07:43:26[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31mHajun _ LT Phuc !#9339[0m : 'chiếc máy bay đầu tiên ?' (📂┊cmd-gpt)
+[30;1m2023-02-06 07:44:19[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31mHajun _ LT Phuc !#9339[0m : 'viết cho tôi thư xin lỗi' (📂┊cmd-gpt)
+[30;1m2023-02-06 07:45:39[0m [34;1mINFO    [0m [35msrc.bot[0m -> [31mHajun _ LT Phuc !#9339[0m : 'viết lại thay tôi bằng em đi' (📂┊cmd-gpt)
+[30;1m2023-02-06 09:18:26[0m [34;1mINFO    [0m [35msrc.bot[0m -> Send starting prompt with size 11
